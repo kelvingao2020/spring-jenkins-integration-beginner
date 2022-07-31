@@ -14,7 +14,7 @@ public class SpringJenkinsIntegrationBeginnerApplication {
 
 	@PostConstruct
 	public void init(){
-		logger.info("Inside init() of SpringJenkinsIntegrationBeginner class --Application started...");
+		logger.info("Inside init() SpringJenkinsIntegrationBeginner class --Application started...");
 	}
 
 	public static void main(String[] args) {
